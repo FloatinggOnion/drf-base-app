@@ -7,6 +7,7 @@
 This is a base app for building API's with django rest framework. It includes the following:
 - A custom user model that uses email as username and password instead of default username/password authentication system (this can be changed)
 - Setup PostgreSQL database
+- Authentication serializers, viewsets and routers
 
 ### Setup
 - Clone this repo
