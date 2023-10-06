@@ -10,6 +10,8 @@ This is a base app for building API's with django rest framework. It includes th
 - Authentication serializers, viewsets and routers
 
 ### Setup
+- The simplest option is to use this repo as a template.
+- **Else...**
 - Clone this repo
 - Run `pipenv install Pipfile`
 - Enjoy!
